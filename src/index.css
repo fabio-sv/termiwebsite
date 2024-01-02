@@ -43,3 +43,8 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #1F2229;
 }
+
+
+.jellyfish {
+    background-image: url('./assets/jellyfish.jpg');
+}

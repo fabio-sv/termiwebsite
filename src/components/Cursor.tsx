@@ -1,0 +1,1 @@
+export const Cursor = () => <div class='w-2 h-4 bg-fsv-gray fsv-animate-blink' />
